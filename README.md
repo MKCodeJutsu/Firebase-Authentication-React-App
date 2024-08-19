@@ -1,5 +1,4 @@
 [![Follow me](https://img.shields.io/github/followers/octocat?style=social&label=Follow)](https://github.com/MKCodeJutsu)![Licencia](https://img.shields.io/github/license/MKCodeJutsu/Firebase-Authentication-React-App)
-
 ![Estrellas](https://img.shields.io/github/stars/MKCodeJutsu/Firebase-Authentication-React-App)
 <a href="https://github.com/MKCodeJutsu" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
