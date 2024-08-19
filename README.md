@@ -1,3 +1,12 @@
+[![Follow me](https://img.shields.io/github/followers/octocat?style=social&label=Follow)](https://github.com/MKCodeJutsu)![Licencia](https://img.shields.io/github/license/MKCodeJutsu/Firebase-Authentication-React-App)
+![Último Commit](https://img.shields.io/github/last-commit/MKCodeJutsu/Firebase-Authentication-React-App)
+![Estrellas](https://img.shields.io/github/stars/MKCodeJutsu/Firebase-Authentication-React-App)
+<a href="https://github.com/MKCodeJutsu" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/muhammed-kamel/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 # ReactJS with Firebase Authentication Project
 This project was created as part of the ReactJS with Firebase Authentication - React Level 2 course on Udemy. It showcases the integration of Firebase Authentication into a ReactJS application, implementing secure user authentication with a modern front-end framework.
 
