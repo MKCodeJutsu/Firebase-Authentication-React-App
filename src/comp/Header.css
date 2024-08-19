@@ -1,0 +1,47 @@
+/* .myheader .ali {
+  background-color: teal;
+} */
+
+
+.hide-when-mobile {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+
+.signout {
+  all: unset;
+  padding: 8px 15px;
+}
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+
+/* ==================
+    3. header of mobile
+===================== */
+.show-when-mobile {
+  display: none;
+}
+
+.main-link.active {
+  color: cyan;
+  font-weight: bold; 
+}
+
+@media (max-width: 800px) {
+  .show-when-mobile {
+    /* display: block; */
+  }
+  
+  .hide-when-mobile {
+    /* display: none; */
+  }
+}
+
+
+
+

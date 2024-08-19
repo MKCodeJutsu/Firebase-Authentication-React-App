@@ -1,0 +1,9 @@
+.hide-when-mobile {
+  flex-direction: column;
+}
+p , button, a ,h1, h2, h6 ,main, footer{
+  font-size: 15px !important;
+}
+.fa-heart , footer .fa-heart{
+  font-size: 17px !important;
+}
